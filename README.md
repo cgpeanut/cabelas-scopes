@@ -24,8 +24,8 @@ All Mark AR MOD 1 riflescopes feature 0.1 mil P5 dials with an elevation BDC dia
 
 ```
 <img src="https://github.com/cgpeanut/cabelas-scopes/blob/master/images/mark-ar-mod1.png" alt="IMAGE ALT TEXT HERE" width="250" height="50" /></a>
+```
 <img src="https://github.com/cgpeanut/cabelas-scopes/blob/master/images/bdc-elevation-dial.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
+```
 <img src="https://github.com/cgpeanut/cabelas-scopes/blob/master/images/mil-click-adj.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
-
-
-
+```
